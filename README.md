@@ -1,4 +1,3 @@
-```markdown
 # Chinook Digital Music Store SQL Analysis
 
 ## Overview
@@ -46,4 +45,3 @@ This project is distributed under the [MIT License](LICENSE).
 ---
 
 Download the database file (`chinook.db`) and start exploring the world of music through data with this project!
-```
