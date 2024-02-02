@@ -45,9 +45,6 @@ The Chinook Digital Music Store database consists of essential tables:
 
 - [Chinook Database](https://github.com/lerocha/chinook-database): Official repository of the Chinook Digital Music Store database.
 
-## License
-
-This project is distributed under the [MIT License](LICENSE).
 
 ---
 
