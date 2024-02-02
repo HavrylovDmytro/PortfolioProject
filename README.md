@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project involves the analysis of data from the Chinook Digital Music Store using SQL queries. The SQLite database is utilized to explore key criteria such as purchase patterns by customers, countries, and genres.
+This project involves analyzing data from the Chinook Digital Music Store using SQL queries. Utilizing the SQLite database, the focus is on exploring key criteria such as customer purchasing patterns, country-specific trends, and music genres. The analysis extends to evaluating the sales performance of artists and albums, identifying top-selling items, and understanding customer preferences. 
 
 ## Database Structure
 
@@ -21,7 +21,7 @@ The Chinook Digital Music Store database consists of essential tables:
 - JOINs
 - SubQueries
 - CTEs
-- Temporary tables
+- Window functions
 - And many more.
 
 ## Used SQL Operations
@@ -34,6 +34,7 @@ The Chinook Digital Music Store database consists of essential tables:
 6. **AGGREGATE FUNCTIONS**: Utilizing aggregation functions (SUM, AVG, COUNT).
 7. **TEMPORARY TABLES**: Creating temporary tables for subsequent use.
 8. **SUBQUERIES**: Using nested queries to obtain additional information.
+9. **WINDOW FUNCTIONS**: Applying window functions for advanced analytical queries.
 
 ## Installation Instructions
 
