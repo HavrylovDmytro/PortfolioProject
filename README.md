@@ -12,12 +12,17 @@ The Chinook Digital Music Store database consists of essential tables:
 - `invoice`: Information about invoice. 
 - `invoiceline`: Details on invoices and purchases.
 - `genre`: Information on music genres.
-- `track`: Information about track
+- `track`: Information about track.
 - And many more.
 
-## Key Functionalities
+## Demonstrated skills
 
-The project includes an analysis of fundamental criteria such as purchase shares by customers, countries, and music genres. Implemented features involve aggregation methods, table joins, ORDER BY and GROUP BY usage, temporary tables, and nested queries.
+- Aggregations
+- JOINs
+- SubQueries
+- CTEs
+- Temporary tables
+- And many more.
 
 ## Used SQL Operations
 
